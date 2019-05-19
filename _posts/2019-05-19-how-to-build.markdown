@@ -35,3 +35,9 @@ img: okgosu-img-1.jpg
 github은 독립 블로그 사이트류에 해당하면서 호스팅 비용은 무료이므로 부담이 없다. 하지만, 소스가 github에 고스란히 공개되므로 컨텐츠 공개는 각오해야 할 것이다. 
 
 오늘은 여기까지....github.io 블로그 개설 얘기는 다음 편으로....
+
+이 글 원문은 여기있음.
+
+소스글: https://github.com/okgosu/okgosu.github.io/blob/master/_posts/2019-05-19-how-to-build.markdown 
+
+내가 소스글을 일정 형식, 즉, markdown으로 작성하면, Jekyll이란 것이 이쁘게 html로 바꿔준다.
