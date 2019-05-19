@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "okgosu.gitbub.io 개설"
+title:  "okgosu.github.io 개설 배경"
 categories: jekyll
 img: okgosu-img-1.jpg
 ---
