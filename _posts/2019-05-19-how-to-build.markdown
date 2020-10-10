@@ -40,4 +40,4 @@ github은 독립 블로그 사이트류에 해당하면서 호스팅 비용은 �
 
 소스글: https://github.com/okgosu/okgosu.github.io/blob/master/_posts/2019-05-19-how-to-build.markdown 
 
-내가 소스글을 일정 형식, 즉, markdown으로 작성하면, Jekyll이란 것이 이쁘게 html로 바꿔준다.
+내가 소스글을 일정 형식, 즉, markdown으로 작성하면, Jekyll이란 것이 이쁘게 html로 바꿔준다!
