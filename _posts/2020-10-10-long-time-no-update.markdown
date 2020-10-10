@@ -4,9 +4,8 @@ title:  "github 블로그에 새로운 글 쓰기"
 categories: jekyll
 ---
 
-github 블로그를 개설하고서 그 동안 업데이트가 없었다.
+github 블로그를 개설하고서 그 동안 업데이트가 없었다. 이 글을 남기면서, github 블로그에 새로운 포스팅을 하는 방법을 정리해본다. (포스팅의 첫 줄은 길게 적어야 가로 레이아웃이 안깨지는 듯해서 길게 적어 본다.)
 
-이 글을 남기면서, github 블로그에 새로운 포스팅을 하는 방법을 정리해본다.
 - 방법 1: 노트북에서 새로운 파일을 만들고 jekyll를 빌드 후 commit 을 하려 했으나....노트북을 포맷해서 세팅하기가 귀찮아짐
 - 방법 2: github 저장소의 '_post' 폴더에 "yyyy-mm-dd-문서제목.markdown"의 이름으로 markdown 파일을 생성하고 최상단에 layout, title, categories, image 메타값을 추가한다. 
 
